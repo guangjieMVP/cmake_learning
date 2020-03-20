@@ -1,0 +1,20 @@
+#include "stdio.h"
+#include "stdlib.h"
+#include "my_add.h"
+
+int main(int argc,char **argv)
+{
+	if(argv != 3)
+	{
+		printf("Usage: %s num1 num2 \r\n",argv[0]);
+		exit(1);
+	}
+	
+	int a = atoi(argv[1]);
+	int b = atoi(argv[2]);
+	
+	int sum = my_add(a,b);
+	printf("sum = %d\r\n",sum);
+
+	return 0;
+}

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+
+project(section1)
+
+add_executable(section1 main.c)
+

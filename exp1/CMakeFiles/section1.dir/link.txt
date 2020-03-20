@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/section1.dir/main.c.o  -o section1 -rdynamic 

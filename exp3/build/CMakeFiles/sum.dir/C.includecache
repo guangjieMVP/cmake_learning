@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/baohua/cmake_learning/exp3/src/main.c
+stdio.h
+/home/baohua/cmake_learning/exp3/src/stdio.h
+stdlib.h
+/home/baohua/cmake_learning/exp3/src/stdlib.h
+my_add.h
+/home/baohua/cmake_learning/exp3/src/my_add.h
+
+/home/baohua/cmake_learning/exp3/src/my_add.c
+my_add.h
+/home/baohua/cmake_learning/exp3/src/my_add.h
+
+/home/baohua/cmake_learning/exp3/src/my_add.h
+
