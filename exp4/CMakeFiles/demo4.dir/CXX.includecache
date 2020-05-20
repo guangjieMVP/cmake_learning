@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ares/cmake_learning/exp4/add/add.h
+
+/home/ares/cmake_learning/exp4/main.cpp
+iostream
+-
+string
+-
+add/add.h
+/home/ares/cmake_learning/exp4/add/add.h
+

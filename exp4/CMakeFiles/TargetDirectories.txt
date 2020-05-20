@@ -1,0 +1,6 @@
+/home/ares/cmake_learning/exp4/CMakeFiles/rebuild_cache.dir
+/home/ares/cmake_learning/exp4/CMakeFiles/demo4.dir
+/home/ares/cmake_learning/exp4/CMakeFiles/edit_cache.dir
+/home/ares/cmake_learning/exp4/add/CMakeFiles/rebuild_cache.dir
+/home/ares/cmake_learning/exp4/add/CMakeFiles/libAdd.dir
+/home/ares/cmake_learning/exp4/add/CMakeFiles/edit_cache.dir
